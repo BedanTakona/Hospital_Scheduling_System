@@ -29,6 +29,55 @@
 - [Bootstrap 4](https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css)
 - [google Fonts](https://use.fontawesome.com/releases/v5.5.0/css/all.css)
 
-* Script CDN
+~ [Script CDN] 
 
 - [Javascript](https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js)
+
+
+### USER INTERACTION
+The user is first required to register to use the service. After registering, the user is prompted to book an appointment with a giving doctor of thier choice at a given medical facility of their choice. 
+
+
+
+### TECHNOLOGIES USED
+
+_LANGUAGES_
+
+* _Html_
+
+* _CSS_
+
+* _Markdown_
+
+* Javascript
+
+* Bootstrap
+
+
+
+
+## Authors
+
+[Mohammed Haroon]
+
+[Adrian Tuimur]
+
+[Andrew Wamarema]
+
+[Bedan Takona]
+
+[Larry Otwori]
+
+
+### CONTACT INFORMATION
+
+Email: bedanmaison35@gmail.com
+
+Phone:+254 748 108 782
+
+
+
+### License
+
+[MIT License]  Copyright (c) {2021}
+
